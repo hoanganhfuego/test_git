@@ -5,3 +5,7 @@ const testGit = () => {
 const testGit2 = () => {
     console.log("test 2")
 }
+
+const testGit4 = () => {
+    console.log("test 4")
+}
